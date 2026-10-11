@@ -1,0 +1,535 @@
+{
+  "checks": 132,
+  "passed": 132,
+  "failures": [],
+  "details": [
+    {
+      "test": "No unseeded randomness",
+      "passed": true
+    },
+    {
+      "test": "No timers or frame-state animation in the renderer",
+      "passed": true
+    },
+    {
+      "test": "Renderer initializes without errors",
+      "passed": true
+    },
+    {
+      "test": "Arabic font files loaded",
+      "passed": true
+    },
+    {
+      "test": "120 second exact timeline",
+      "passed": true
+    },
+    {
+      "test": "Contiguous scene 2",
+      "passed": true
+    },
+    {
+      "test": "Contiguous scene 3",
+      "passed": true
+    },
+    {
+      "test": "Contiguous scene 4",
+      "passed": true
+    },
+    {
+      "test": "Contiguous scene 5",
+      "passed": true
+    },
+    {
+      "test": "Contiguous scene 6",
+      "passed": true
+    },
+    {
+      "test": "Contiguous scene 7",
+      "passed": true
+    },
+    {
+      "test": "Contiguous scene 8",
+      "passed": true
+    },
+    {
+      "test": "Contiguous scene 9",
+      "passed": true
+    },
+    {
+      "test": "Contiguous scene 10",
+      "passed": true
+    },
+    {
+      "test": "Contiguous scene 11",
+      "passed": true
+    },
+    {
+      "test": "Contiguous scene 12",
+      "passed": true
+    },
+    {
+      "test": "Contiguous scene 13",
+      "passed": true
+    },
+    {
+      "test": "Contiguous scene 14",
+      "passed": true
+    },
+    {
+      "test": "Contiguous scene 15",
+      "passed": true
+    },
+    {
+      "test": "Contiguous scene 16",
+      "passed": true
+    },
+    {
+      "test": "Contiguous scene 17",
+      "passed": true
+    },
+    {
+      "test": "Contiguous scene 18",
+      "passed": true
+    },
+    {
+      "test": "Contiguous scene 19",
+      "passed": true
+    },
+    {
+      "test": "Contiguous scene 20",
+      "passed": true
+    },
+    {
+      "test": "Contiguous scene 21",
+      "passed": true
+    },
+    {
+      "test": "Contiguous scene 22",
+      "passed": true
+    },
+    {
+      "test": "Contiguous scene 23",
+      "passed": true
+    },
+    {
+      "test": "Contiguous scene 24",
+      "passed": true
+    },
+    {
+      "test": "Contiguous scene 25",
+      "passed": true
+    },
+    {
+      "test": "Contiguous scene 26",
+      "passed": true
+    },
+    {
+      "test": "Frame 0.65s is deterministic after arbitrary seeks",
+      "passed": true
+    },
+    {
+      "test": "Frame 3.8s is deterministic after arbitrary seeks",
+      "passed": true
+    },
+    {
+      "test": "Frame 27s is deterministic after arbitrary seeks",
+      "passed": true
+    },
+    {
+      "test": "Frame 44.5s is deterministic after arbitrary seeks",
+      "passed": true
+    },
+    {
+      "test": "Frame 69s is deterministic after arbitrary seeks",
+      "passed": true
+    },
+    {
+      "test": "Frame 86.5s is deterministic after arbitrary seeks",
+      "passed": true
+    },
+    {
+      "test": "Frame 118.5s is deterministic after arbitrary seeks",
+      "passed": true
+    },
+    {
+      "test": "Phrase timing 42.6-47.3",
+      "passed": true
+    },
+    {
+      "test": "Text safe area: لا لا لا... لا لا لا...",
+      "passed": true
+    },
+    {
+      "test": "Phone-readable font size: لا لا لا... لا لا لا...",
+      "passed": true
+    },
+    {
+      "test": "Phrase timing 47.3-54.4",
+      "passed": true
+    },
+    {
+      "test": "Text safe area: لا لا لا...",
+      "passed": true
+    },
+    {
+      "test": "Phone-readable font size: لا لا لا...",
+      "passed": true
+    },
+    {
+      "test": "Phrase timing 54.4-59.9",
+      "passed": true
+    },
+    {
+      "test": "Text safe area: لا لا لا لا لا لا لا لا",
+      "passed": true
+    },
+    {
+      "test": "Phone-readable font size: لا لا لا لا لا لا لا لا",
+      "passed": true
+    },
+    {
+      "test": "Text safe area: لا لا لا لا لا لا لا لا",
+      "passed": true
+    },
+    {
+      "test": "Phone-readable font size: لا لا لا لا لا لا لا لا",
+      "passed": true
+    },
+    {
+      "test": "Phrase timing 59.9-62",
+      "passed": true
+    },
+    {
+      "test": "Text safe area: فوق",
+      "passed": true
+    },
+    {
+      "test": "Phone-readable font size: فوق",
+      "passed": true
+    },
+    {
+      "test": "Text safe area: ثغر الربا",
+      "passed": true
+    },
+    {
+      "test": "Phone-readable font size: ثغر الربا",
+      "passed": true
+    },
+    {
+      "test": "Phrase timing 62-66.4",
+      "passed": true
+    },
+    {
+      "test": "Text safe area: بين",
+      "passed": true
+    },
+    {
+      "test": "Phone-readable font size: بين",
+      "passed": true
+    },
+    {
+      "test": "Text safe area: صفو التلال",
+      "passed": true
+    },
+    {
+      "test": "Phone-readable font size: صفو التلال",
+      "passed": true
+    },
+    {
+      "test": "Phrase timing 66.4-72.7",
+      "passed": true
+    },
+    {
+      "test": "Text safe area: تحت ظل",
+      "passed": true
+    },
+    {
+      "test": "Phone-readable font size: تحت ظل",
+      "passed": true
+    },
+    {
+      "test": "Text safe area: السحاب",
+      "passed": true
+    },
+    {
+      "test": "Phone-readable font size: السحاب",
+      "passed": true
+    },
+    {
+      "test": "Phrase timing 72.7-75",
+      "passed": true
+    },
+    {
+      "test": "Text safe area: حيث مرعى",
+      "passed": true
+    },
+    {
+      "test": "Phone-readable font size: حيث مرعى",
+      "passed": true
+    },
+    {
+      "test": "Text safe area: الغزال",
+      "passed": true
+    },
+    {
+      "test": "Phone-readable font size: الغزال",
+      "passed": true
+    },
+    {
+      "test": "Phrase timing 75-79.3",
+      "passed": true
+    },
+    {
+      "test": "Text safe area: في عيون",
+      "passed": true
+    },
+    {
+      "test": "Phone-readable font size: في عيون",
+      "passed": true
+    },
+    {
+      "test": "Text safe area: الضحى",
+      "passed": true
+    },
+    {
+      "test": "Phone-readable font size: الضحى",
+      "passed": true
+    },
+    {
+      "test": "Phrase timing 79.3-84.1",
+      "passed": true
+    },
+    {
+      "test": "Text safe area: أو صدور",
+      "passed": true
+    },
+    {
+      "test": "Phone-readable font size: أو صدور",
+      "passed": true
+    },
+    {
+      "test": "Text safe area: الجبال",
+      "passed": true
+    },
+    {
+      "test": "Phone-readable font size: الجبال",
+      "passed": true
+    },
+    {
+      "test": "Phrase timing 84.1-90",
+      "passed": true
+    },
+    {
+      "test": "Text safe area: أو عناق",
+      "passed": true
+    },
+    {
+      "test": "Phone-readable font size: أو عناق",
+      "passed": true
+    },
+    {
+      "test": "Text safe area: الزهور",
+      "passed": true
+    },
+    {
+      "test": "Phone-readable font size: الزهور",
+      "passed": true
+    },
+    {
+      "test": "Phrase timing 90-92.2",
+      "passed": true
+    },
+    {
+      "test": "Text safe area: فوق خصر",
+      "passed": true
+    },
+    {
+      "test": "Phone-readable font size: فوق خصر",
+      "passed": true
+    },
+    {
+      "test": "Text safe area: الدلال",
+      "passed": true
+    },
+    {
+      "test": "Phone-readable font size: الدلال",
+      "passed": true
+    },
+    {
+      "test": "Phrase timing 92.2-98.5",
+      "passed": true
+    },
+    {
+      "test": "Text safe area: حيث غنى",
+      "passed": true
+    },
+    {
+      "test": "Phone-readable font size: حيث غنى",
+      "passed": true
+    },
+    {
+      "test": "Text safe area: الصباح",
+      "passed": true
+    },
+    {
+      "test": "Phone-readable font size: الصباح",
+      "passed": true
+    },
+    {
+      "test": "Phrase timing 98.5-103.5",
+      "passed": true
+    },
+    {
+      "test": "Text safe area: في خدود",
+      "passed": true
+    },
+    {
+      "test": "Phone-readable font size: في خدود",
+      "passed": true
+    },
+    {
+      "test": "Text safe area: الجمال",
+      "passed": true
+    },
+    {
+      "test": "Phone-readable font size: الجمال",
+      "passed": true
+    },
+    {
+      "test": "Phrase timing 103.5-108",
+      "passed": true
+    },
+    {
+      "test": "Text safe area: والشروق",
+      "passed": true
+    },
+    {
+      "test": "Phone-readable font size: والشروق",
+      "passed": true
+    },
+    {
+      "test": "Text safe area: يبتسم",
+      "passed": true
+    },
+    {
+      "test": "Phone-readable font size: يبتسم",
+      "passed": true
+    },
+    {
+      "test": "Phrase timing 108-112",
+      "passed": true
+    },
+    {
+      "test": "Text safe area: للغصون",
+      "passed": true
+    },
+    {
+      "test": "Phone-readable font size: للغصون",
+      "passed": true
+    },
+    {
+      "test": "Text safe area: الطوال",
+      "passed": true
+    },
+    {
+      "test": "Phone-readable font size: الطوال",
+      "passed": true
+    },
+    {
+      "test": "Credit/title bounds 3.8s: من كلمات الشاعر الأنيق",
+      "passed": true
+    },
+    {
+      "test": "Credit/title bounds 3.8s: نزار",
+      "passed": true
+    },
+    {
+      "test": "Credit/title bounds 3.8s: القدسي",
+      "passed": true
+    },
+    {
+      "test": "Credit/title bounds 8.5s: من كلمات الشاعر الأنيق",
+      "passed": true
+    },
+    {
+      "test": "Credit/title bounds 8.5s: نزار",
+      "passed": true
+    },
+    {
+      "test": "Credit/title bounds 8.5s: القدسي",
+      "passed": true
+    },
+    {
+      "test": "Credit/title bounds 20.5s: في عيون",
+      "passed": true
+    },
+    {
+      "test": "Credit/title bounds 20.5s: الضحى",
+      "passed": true
+    },
+    {
+      "test": "Credit/title bounds 115.6s: هندسة صوتية وتصميم",
+      "passed": true
+    },
+    {
+      "test": "Credit/title bounds 115.6s: استديو الإنتاج",
+      "passed": true
+    },
+    {
+      "test": "Credit/title bounds 115.6s: والإبداع الفني",
+      "passed": true
+    },
+    {
+      "test": "Credit/title bounds 118.5s: هندسة صوتية وتصميم",
+      "passed": true
+    },
+    {
+      "test": "Credit/title bounds 118.5s: استديو الإنتاج",
+      "passed": true
+    },
+    {
+      "test": "Credit/title bounds 118.5s: والإبداع الفني",
+      "passed": true
+    },
+    {
+      "test": "Active analytic motion at 15s",
+      "passed": true
+    },
+    {
+      "test": "Active analytic motion at 27s",
+      "passed": true
+    },
+    {
+      "test": "Active analytic motion at 32s",
+      "passed": true
+    },
+    {
+      "test": "Active analytic motion at 51s",
+      "passed": true
+    },
+    {
+      "test": "Active analytic motion at 69s",
+      "passed": true
+    },
+    {
+      "test": "Active analytic motion at 81.5s",
+      "passed": true
+    },
+    {
+      "test": "Active analytic motion at 86.5s",
+      "passed": true
+    },
+    {
+      "test": "Active analytic motion at 95s",
+      "passed": true
+    },
+    {
+      "test": "Active analytic motion at 110s",
+      "passed": true
+    },
+    {
+      "test": "Active analytic motion at 118s",
+      "passed": true
+    }
+  ]
+}

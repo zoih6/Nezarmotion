@@ -1,0 +1,16 @@
+{
+  "name": "nezar-poetic-motion",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A deterministic 120-second Arabic poetic motion film, 1080x1920",
+  "scripts": {
+    "render": "bash scripts/build.sh",
+    "preview": "node scripts/preview.mjs",
+    "test": "node scripts/qa.mjs",
+    "render:silent": "node scripts/render.mjs --fps 30 --dur 120 --out out/silent.mp4"
+  },
+  "devDependencies": {
+    "playwright": "^1.56.1"
+  }
+}

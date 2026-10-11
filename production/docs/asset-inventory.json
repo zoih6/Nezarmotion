@@ -1,0 +1,24 @@
+{
+  "music": {
+    "source": "../الأغنية.mp3",
+    "duration_seconds": 120.024,
+    "used_range": [
+      0,
+      120
+    ]
+  },
+  "logo": {
+    "source": "../file_0000000087fc82088316216847d9bff7.png",
+    "method": "original pixels; no generative logo edits"
+  },
+  "reference_videos": "Viewed only; not included in the film",
+  "generated": [
+    "flower.webp",
+    "gazelle.webp",
+    "nib.webp"
+  ],
+  "fonts": [
+    "Amiri (OFL)",
+    "IBM Plex Sans Arabic (OFL)"
+  ]
+}

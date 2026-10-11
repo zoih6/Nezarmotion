@@ -1,0 +1,92 @@
+[
+  {
+    "start": 42.6,
+    "end": 47.3,
+    "text": "لا لا لا... لا لا لا...",
+    "scene": "melody"
+  },
+  {
+    "start": 47.3,
+    "end": 54.4,
+    "text": "لا لا لا...",
+    "scene": "melody"
+  },
+  {
+    "start": 54.4,
+    "end": 59.9,
+    "text": "لا لا لا لا لا لا لا لا\nلا لا لا لا لا لا لا لا",
+    "scene": "melody"
+  },
+  {
+    "start": 59.9,
+    "end": 62.0,
+    "text": "فوق ثغر الربا",
+    "scene": "hills"
+  },
+  {
+    "start": 62.0,
+    "end": 66.4,
+    "text": "بين صفو التلال",
+    "scene": "valley"
+  },
+  {
+    "start": 66.4,
+    "end": 72.7,
+    "text": "تحت ظل السحاب",
+    "scene": "cloud"
+  },
+  {
+    "start": 72.7,
+    "end": 75.0,
+    "text": "حيث مرعى الغزال",
+    "scene": "gazelle"
+  },
+  {
+    "start": 75.0,
+    "end": 79.3,
+    "text": "في عيون الضحى",
+    "scene": "dawn"
+  },
+  {
+    "start": 79.3,
+    "end": 84.1,
+    "text": "أو صدور الجبال",
+    "scene": "mountains"
+  },
+  {
+    "start": 84.1,
+    "end": 90.0,
+    "text": "أو عناق الزهور",
+    "scene": "flowers"
+  },
+  {
+    "start": 90.0,
+    "end": 92.2,
+    "text": "فوق خصر الدلال",
+    "scene": "ribbon"
+  },
+  {
+    "start": 92.2,
+    "end": 98.5,
+    "text": "حيث غنى الصباح",
+    "scene": "morning"
+  },
+  {
+    "start": 98.5,
+    "end": 103.5,
+    "text": "في خدود الجمال",
+    "scene": "beauty"
+  },
+  {
+    "start": 103.5,
+    "end": 108.0,
+    "text": "والشروق يبتسم",
+    "scene": "sunrise"
+  },
+  {
+    "start": 108.0,
+    "end": 112.0,
+    "text": "للغصون الطوال",
+    "scene": "branches"
+  }
+]

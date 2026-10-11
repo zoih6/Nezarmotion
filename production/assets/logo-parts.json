@@ -1,0 +1,27 @@
+{
+  "width": 340,
+  "height": 218,
+  "parts": [
+    {
+      "file": "logo-part-0.webp",
+      "x": 62,
+      "y": 22,
+      "w": 208,
+      "h": 188
+    },
+    {
+      "file": "logo-part-1.webp",
+      "x": 19,
+      "y": 38,
+      "w": 150,
+      "h": 137
+    },
+    {
+      "file": "logo-part-2.webp",
+      "x": 164,
+      "y": 60,
+      "w": 147,
+      "h": 136
+    }
+  ]
+}

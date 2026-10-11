@@ -1,0 +1,29 @@
+{
+  "source": "user-provided original song",
+  "source_offset_seconds": 0,
+  "original_lyrics_timing_preserved": true,
+  "sfx_gain": 0.055,
+  "sfx_cues": 17,
+  "target_lufs": -14,
+  "applied_gain_db": -1.68,
+  "measured_integrated_lufs": -14.07,
+  "measured_true_peak_dbtp": -2.41,
+  "measured_lra": 5.1,
+  "audio_codec": "AAC stereo 160k 48kHz",
+  "fade_out": [
+    119.15,
+    120
+  ],
+  "before": {
+    "input_i": "-12.32",
+    "input_tp": "-0.66",
+    "input_lra": "5.00",
+    "input_thresh": "-22.40",
+    "output_i": "-12.58",
+    "output_tp": "-1.50",
+    "output_lra": "2.70",
+    "output_thresh": "-22.63",
+    "normalization_type": "dynamic",
+    "target_offset": "-1.42"
+  }
+}
