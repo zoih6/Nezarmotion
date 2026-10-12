@@ -1,0 +1,6 @@
+node_modules
+production/film/tmp
+production/film/out
+production/film/segments
+production/film/renders
+*.part.mp4
