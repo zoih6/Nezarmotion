@@ -1,1 +1,0 @@
-{"name":"motion-doc-studio","private":true,"type":"module","devDependencies":{"playwright":"^1.64.0"},"scripts":{"demo:still":"cd engine && PAGE=index.html node ../tools/still.mjs 1.5 6.5 10.5 14.5"}}
