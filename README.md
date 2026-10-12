@@ -1,45 +1,38 @@
-# Nezarmotion
+# صباحٌ يُغنَّى — نزار القدسي (موشن جرافيك موسيقي عمودي)
 
-مستودع عام يضم ملفات الحركة والفيديو.
-
-## المحتويات
-
-- مقاطع فيديو مرجعية وتجريبية.
-- ملف صوتي وصورة.
+فيلم موشن جرافيك سينمائي عمودي 9:16 من كلمات الشاعر الأنيق **نزار القدسي** —
+الفجر يُبنَى غناءً: من ليلٍ نَيلي إلى شمسٍ مبتسمة.
 
 > ملاحظة: تأكد من امتلاك الحقوق اللازمة لأي فيديو أو صوت قبل إعادة نشره أو استخدامه تجاريًا.
 
+## 🎬 العينة (0–62 ثانية) — جاهزة للاعتماد
 
-## 🎬 الفيلم المنجز — القصيدة التي تصير صباحًا
-
-موشن جرافيك موسيقي عمودي من كلمات الشاعر الأنيق **نزار القدسي**، مع تصميم وهندسة صوتية وخاتمة هوية **ومض — استديو الإنتاج والإبداع الفني**.
-
-- المدة: **دقيقتان بالضبط** · 30fps · MP4 متوافق مع الهواتف.
-- نسخة النشر: **1080×1920**.
-- نسخة خفيفة: **720×1280** مع الصوت نفسه.
-- الكلمات تظهر حسب التوقيت المرفق، والشعار الأصلي محفوظ.
+المقدمة + اسم الشاعر + بناء العالم + اللالا + أول بيت — بالأسلوب النهائي «سينما الشروق».
 
 | الملف | التحميل | الحجم |
 |---|---|---|
-| فيديو خفيف 720p | [تنزيل مباشر](https://raw.githubusercontent.com/zoih6/Nezarmotion/main/deliverables/nezar-poetic-motion-light.mp4) | 10.79 MB |
-| الفيديو الكامل 1080p | [تنزيل مباشر](https://raw.githubusercontent.com/zoih6/Nezarmotion/main/deliverables/nezar-poetic-motion.mp4) | 28.86 MB |
-| بوستر | [تنزيل مباشر](https://raw.githubusercontent.com/zoih6/Nezarmotion/main/deliverables/poster.jpg) | 212 KB |
-| إطارات من جميع المشاهد | [تنزيل مباشر](https://raw.githubusercontent.com/zoih6/Nezarmotion/main/deliverables/contact-sheet.jpg) | 446 KB |
-| توقيت الكلمات | [تنزيل مباشر](https://raw.githubusercontent.com/zoih6/Nezarmotion/main/deliverables/lyrics.srt) | 1 KB |
-| تقرير التسليم | [تنزيل مباشر](https://raw.githubusercontent.com/zoih6/Nezarmotion/main/deliverables/delivery-report.json) | 2 KB |
+| العينة 1080p | [تنزيل مباشر](https://raw.githubusercontent.com/zoih6/Nezarmotion/main/deliverables/sample_1080p.mp4) | 28.1 MB |
+| العينة 720p (خفيفة) | [تنزيل مباشر](https://raw.githubusercontent.com/zoih6/Nezarmotion/main/deliverables/sample_720p.mp4) | 12.9 MB |
+| البوستر | [تنزيل مباشر](https://raw.githubusercontent.com/zoih6/Nezarmotion/main/deliverables/sample_poster.jpg) | 195 KB |
+| شيت المشاهد | [تنزيل مباشر](https://raw.githubusercontent.com/zoih6/Nezarmotion/main/deliverables/sample_contact.jpg) | — |
+| تقرير الفحص | [تنزيل مباشر](https://raw.githubusercontent.com/zoih6/Nezarmotion/main/deliverables/sample_report.json) | — |
 
-### بوستر الفيلم
+![بوستر العينة](deliverables/sample_poster.jpg)
 
-![نزار القدسي](deliverables/poster.jpg)
+**فحص العينة:** 1860 إطار · 62.00 ثانية · −14.9 LUFS · قمة −3.3 · فك ترميز نظيف ·
+تزامن اللالا (42.6) وأول بيت (59.9) ± إطار · ٣ جولات مراجعة.
 
-### معاينة المشاهد
+## 📁 المحتويات
 
-![إطارات الفيلم](deliverables/contact-sheet.jpg)
+- `deliverables/` — المخرجات الجاهزة للتحميل.
+- `production/` — كود الفيلم الكامل + الأصول + الوثائق (البريف، المعالجة، الأسلوب، التوقيتات).
+- `الأغنية.mp3` — الأغنية الأصلية (الساعة الرئيسية).
+- `file_0000000087fc82088316216847d9bff7.png` — شعار ومض (للخاتمة).
+- مقاطع `mp4` — مراجع الأسلوب (القواعد فقط، دون نسخ).
 
-### المصدر البرمجي
+## 🗺️ الطريق إلى الفيلم الكامل (120 ثانية)
 
-المشروع الكامل في [`production/`](production/README.md): كود Canvas، الأصول، الخطوط، مخطط الإنتاج، التصيير، والمراجعات.
-
-**قياسات الصوت:** −14.07 LUFS، و−2.41 dBTP. **فحص الملف:** 3600 إطار، 120.000 ثانية، دون أخطاء فك ترميز.
-
-توجد كلمات الأغنية داخل الفيديو بالفعل؛ ملف SRT مرجع زمني اختياري. لا توجد لقطات مقتبسة من المقاطع المرجعية ولا صورة مولدة تمثل الشاعر.
+1. اعتماد العينة وملاحظاتك عليها.
+2. دفعة الأصول الثانية (الغزال، الزهور، الغصون…).
+3. مشاهد الأبيات 02–12 + الخاتمة (شعار ومض متحرك).
+4. الرندر الكامل + المكس النهائي + الرفع هنا.
