@@ -1,0 +1,18 @@
+<!doctype html><html><head><meta charset="utf-8"><title>فوق ثغر الربا — نزار القدسي</title>
+<style>html,body{margin:0;background:#000;overflow:hidden}canvas{display:block}</style></head>
+<body><canvas id="c" width="1080" height="1920"></canvas>
+<script src="data.js"></script><script src="logo_meta.js"></script><script src="lib.js"></script><script src="film.js"></script>
+<script>
+(async () => {
+  const fonts = [['Ruqaa', 'fonts/ArefRuqaa-Bold.ttf', {}], ['Alexandria', 'fonts/Alexandria%5Bwght%5D.ttf', { weight: '100 900' }]];
+  await Promise.all(fonts.map(async ([n, u, d]) => { const f = new FontFace(n, `url(${u})`, d); await f.load(); document.fonts.add(f); }));
+  const imgs = { night: 'night.jpg', hills: 'hills.jpg', clouds: 'clouds.jpg', eye: 'eye.jpg', mountains: 'mountains.jpg', petals: 'petals.jpg', sunrise: 'sunrise.jpg',
+    gazelle: 'gazelle.png', flowers: 'flowers.png', branch: 'branch.png' };
+  ['inner', 'ring', 'mark', 'word', 'wamd', 'tag', 'dpink', 'dgreen'].forEach(k => imgs['logo_' + k] = 'logo_' + k + '.png');
+  await Promise.all(Object.entries(imgs).map(([k, f]) => loadImg(k, 'assets/' + f)));
+  A.logoMeta = LOGO_META;
+  build();
+  window.seek = t => drawFrame(t);
+  window.seek(0); window.ready = true;
+})();
+</script></body></html>
